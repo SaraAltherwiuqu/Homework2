@@ -1,0 +1,10 @@
+Cloud Computing Concepts:Rajkumar Buyya:9781119560111:6
+Computer Architecture:John L. Hennessy:9780123838728:3
+Cybersecurity Essentials:Charles J. Brooks:9781284143636:7
+Data Structures and Algorithms:Michael T. Goodrich:9781118771334:5
+Distributed Systems:George Coulouris:9780132143011:3
+Machine Learning:Tom M. Mitchell:9780070428072:4
+Software Engineering:Ian Sommerville:9780133943030:2
+Software Testing:Ron Patton:9780672327982:2
+Data Structures and Algorithms:Michael T. Goodrich:9781118771334:5
+Broken Book::9780134685991:4

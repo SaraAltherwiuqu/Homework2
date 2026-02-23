@@ -1,0 +1,8 @@
+[2026-02-23T16:38:59] INVALID INPUT: "Clean Architecture:Robert C. Martin:123ABC4567890:3"
+InvalidISBNException: ISBN must contain exactly 13 digits.
+[2026-02-23T16:45:09] INVALID INPUT: "9781118771334"
+DuplicateISBNException: More than one book found with ISBN: 9781118771334
+[2026-02-23T16:49:08] INVALID INPUT: "Modern Software Design:Alan Cooper:9781234567890:0"
+MalformedBookEntryException: Copies must be a positive integer greater than zero.
+[2026-02-23T16:54:59] INVALID LINE: "Broken Book::9780134685991:4"
+MalformedBookEntryException: Author cannot be empty.
